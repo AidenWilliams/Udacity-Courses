@@ -2,13 +2,13 @@
 
 NanoDegrees:
 
-# [Intro to Machine Learning With Pytorch]()
+# [Intro to Machine Learning With Pytorch]() (Graduated)
 
 * [Finding Donors]()
 * [Image Classifier]()
 * [Identify Customer Segments]()
 
-# [Deep Learning]()
+# [Deep Learning]() (In Progress)
 
 * [Sentiment Analyses - ANN]()
 * [Predicting Bike Sharing Patterns]()
