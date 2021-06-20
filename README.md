@@ -1,2 +1,14 @@
 # Udacity-Courses
-A collection of the Udacity nano degree projects I have worked on.
+
+NanoDegrees:
+
+# [Intro to Machine Learning With Pytorch]()
+
+* [Finding Donors]()
+* [Image Classifier]()
+* [Identify Customer Segments]()
+
+# [Deep Learning]()
+
+* [Sentiment Analyses - ANN]()
+* [Predicting Bike Sharing Patterns]()
