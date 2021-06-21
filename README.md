@@ -1,5 +1,7 @@
 # Udacity-Courses
 
+Datasets are not included as I am unsure whether I have permission to share them. A collection of empy Udacity projects can be found [here](https://github.com/udacity) and in some cases the dataset is available there.
+
 # [Intro to Machine Learning With Pytorch](https://github.com/AidenWilliams/Udacity-Courses/tree/main/Intro%20to%20Machine%20Learning%20With%20Pytorch) (Graduated)
 
 * [Finding Donors](https://github.com/AidenWilliams/Udacity-Courses/tree/main/Intro%20to%20Machine%20Learning%20With%20Pytorch/Donors%20For%20Charity)
