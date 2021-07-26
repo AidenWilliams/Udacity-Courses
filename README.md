@@ -12,3 +12,4 @@ Datasets are not included as I am unsure whether I have permission to share them
 
 * [Sentiment Analyses - ANN](https://github.com/AidenWilliams/Udacity-Courses/tree/main/Deep%20Learning/Sentiment%20Analyses%20-%20ANN)
 * [Predicting Bike Sharing Patterns](https://github.com/AidenWilliams/Udacity-Courses/tree/main/Deep%20Learning/Predicting%20Bike%20Sharing%20Patterns)
+* [Landmark Classification & Tagging for Social Media](#https://github.com/AidenWilliams/Udacity-Courses/tree/main/Deep%20Learning/Landmark%20Classification%20%26%20Tagging%20for%20Social%20Media)
